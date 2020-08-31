@@ -1,9 +1,5 @@
 # DOM.Pixelate
 
-# Pixelate
-
-An editor for your 8-bit art!
-
 To start:
 
 - `npm install`
